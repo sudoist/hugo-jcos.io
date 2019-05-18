@@ -70,7 +70,7 @@ disableHugoGeneratorInject = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = ["/css/styles.css"]
+  customCSS = ["/css/styles.css", "/css/responsive.css"]
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
@@ -83,7 +83,7 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ cd home/jcosio"
+    logoText     = "cd home/jcosio"
     logoHomeLink = "/"
     path         = "/images/logo.png"
 

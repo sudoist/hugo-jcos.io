@@ -2,18 +2,18 @@
 /* Homepage */
 body.home.custom.dark-theme {
     background-image: url(/images/bg-home.jpg);
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+        background-attachment: fixed;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
 }
 
 body.home.custom {
     background-image: url(/images/bg-home-light.jpg);
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+        background-attachment: fixed;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
     color: #fff;
 }
 
@@ -28,19 +28,33 @@ body.home.custom .menu {
     background: none;
 }
 
-.home.text h1 {
-    display: block;
-    text-align: right;
-}
-
-.home.text {
-    display: block;
-    text-align: right;
-    width: 80%;
-}
-
+/* Alignment of CTA links */
 .cta-home {
     display: block;
+}
+
+/* Light theme */
+.home .logo:hover > span.logo__text,
+.home .logo span.logo__cursor,
+.home .logo__text,
+.home span.logo__text.animated {
+    color: #fff;
+}
+
+.logo__img {
+    content: url("/images/logo-light.png");
+}
+
+.logo:hover > span.logo__text {
+    color: #222;
+}
+
+span.logo__text.animated {
+    animation: typing 3s steps(30,end);
+    color: #222;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 /* Dark theme */
@@ -48,4 +62,52 @@ body.dark-theme {
     background-image: url(/images/bg-pattern.png);
 }
 
+.dark-theme .logo:hover > span.logo__text,
+.logo span.logo__cursor,
+.dark-theme .logo__text {
+    color: #fff;
+}
 
+.dark-theme .logo span.logo__cursor {
+    background: #fff;
+}
+
+.dark-theme span.logo__text.animated {
+    animation: typing 3s steps(30,end);
+    color: #fff;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+/* The typing effect */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 60% }
+}
+
+.dark-theme a .logo,
+.dark-theme a .logo:hover {
+    color: #fff;
+}
+
+.dark-theme .logo__img {
+    content: url("/images/logo.png");
+}
+
+/* Links */
+.menu a:hover,
+.tag a:hover,
+.theme-toggle:hover,
+a span.post-title:hover,
+a span.button__text:hover,
+h1.post-title a:hover {
+    color: #b99128;
+    text-decoration: underline;
+    transition: all 0.5s ease 0s;
+}
+
+a:hover {
+    color: #b99128;
+    transition: all 0.5s ease 0s;
+}
