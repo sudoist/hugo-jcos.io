@@ -1,0 +1,131 @@
+baseURL = "/"
+title   = "John Cosio"
+
+DefaultContentLanguage = "en"
+
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "John Cosio"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = ""
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Gaming and stuff on John Cosio…"
+  keywords = "John, Cosio, Gaming, Gunpla, Blog"
+  images = [""]
+
+  homeHeader = "Greetings traveller!"
+  homeMessage1 = "Sit back, relax and play some games."
+  homeMessage2 = "We can talk about work too."
+  homeMessage3 = "How can I help you?"
+  homeCTA1 = "Hang around"
+  homeCTA2 = "Discuss work stuff"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = ""
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = ["/css/styles.css"]
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false  # Set "text-align: justify" to .content.
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  themeColor = "#252627"
+
+  [params.logo]
+    logoText     = "$ cd home/jcosio"
+    logoHomeLink = "/"
+    path         = "/images/logo.png"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:mail@jcos.io"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UCRHhhzP8dUEp_PS9eNUU2-A"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/sudoist"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://ph.linkedin.com/in/johncosio"
+
+[languages]
+  [languages.en]
+    subtitle  = "Gaming and stuff"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+
+[home]
+  [[menu.cta]]
+    identifier = "work"
+    name       = "-> Portfolio and work stuff"
+    url        = "work/"
+  [[menu.cta]]
+    identifier = "about"
+    name       = "-> Learn more about what I do here"
+    url        = "about/"

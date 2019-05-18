@@ -1,0 +1,35 @@
+{{ define "main" }}
+    <main aria-role="main" class="home text">
+        <div>
+            <h1>{{ .Site.Params.homeHeader }}</h1>
+            {{- with .Site.Params.header }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            {{- with .Site.Params.homeMessage1 }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            {{- with .Site.Params.homeMessage2 }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            {{- with .Site.Params.homeMessage3 }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            <ul>
+                {{ range .Site.Menus.cta -}}
+                    <li class="cta-home"><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                {{- end }}
+            </ul>
+
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}

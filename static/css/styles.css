@@ -1,0 +1,51 @@
+
+/* Homepage */
+body.home.custom.dark-theme {
+    background-image: url(/images/bg-home.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body.home.custom {
+    background-image: url(/images/bg-home-light.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+body.home.custom .footer__content {
+    color: #fff;
+}
+
+body.home.custom.dark-theme header,
+body.home.custom.dark-theme .menu,
+body.home.custom header,
+body.home.custom .menu {
+    background: none;
+}
+
+.home.text h1 {
+    display: block;
+    text-align: right;
+}
+
+.home.text {
+    display: block;
+    text-align: right;
+    width: 80%;
+}
+
+.cta-home {
+    display: block;
+}
+
+/* Dark theme */
+body.dark-theme {
+    background-image: url(/images/bg-pattern.png);
+}
+
+
