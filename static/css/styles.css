@@ -80,6 +80,11 @@ body.dark-theme {
     white-space: nowrap;
 }
 
+.dark-theme .header,
+.dark-theme .menu{
+    background: none;
+}
+
 /* The typing effect */
 @keyframes typing {
     from { width: 0 }
