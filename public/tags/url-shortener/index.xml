@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>URL Shortener on John Cosio</title>
-    <link>https://johncosio.com/tags/url-shortener.html</link>
+    <link>https://johncosio.com/tags/url-shortener/</link>
     <description>Recent content in URL Shortener on John Cosio</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -13,10 +13,10 @@
     
     <item>
       <title>New toy: jcos.io URL shortener using YOURLS</title>
-      <link>https://johncosio.com/posts/2016/04/new-toy-jcos.io-url-shortener-using-yourls.html</link>
+      <link>https://johncosio.com/posts/2016/04/new-toy-jcos.io-url-shortener-using-yourls/</link>
       <pubDate>Thu, 07 Apr 2016 15:00:32 +0000</pubDate>
       
-      <guid>https://johncosio.com/posts/2016/04/new-toy-jcos.io-url-shortener-using-yourls.html</guid>
+      <guid>https://johncosio.com/posts/2016/04/new-toy-jcos.io-url-shortener-using-yourls/</guid>
       <description>Finding an unused domain name is hard, finding available short domains is even harder.
 Last Christmas I got myself this new domain for my URL shortener. JCOS.IO yeah!
 Nice present for myself.
