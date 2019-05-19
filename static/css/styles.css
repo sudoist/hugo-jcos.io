@@ -41,6 +41,10 @@ body.home.custom .menu {
     color: #fff;
 }
 
+.home .logo__img {
+    content: url("/images/logo.png");
+}
+
 .logo__img {
     content: url("/images/logo-light.png");
 }
@@ -115,4 +119,23 @@ h1.post-title a:hover {
 a:hover {
     color: #b99128;
     transition: all 0.5s ease 0s;
+}
+
+/* Lists */
+img.post-image {
+    border-radius: 20px 20px 0 0;
+}
+
+li.post-item {
+    margin-bottom: 2em;
+}
+
+/* Posts */
+.pagination__title-h {
+    display: none;
+}
+
+/* Portfolio page */
+.posts .work-message {
+    text-align: center;
 }

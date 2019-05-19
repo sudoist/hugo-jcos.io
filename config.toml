@@ -1,4 +1,5 @@
-baseURL = "/"
+baseURL = "https://johncosio.com/"
+
 title   = "John Cosio"
 
 DefaultContentLanguage = "en"
@@ -82,6 +83,11 @@ disableHugoGeneratorInject = false
   defaultTheme = "dark"
   themeColor = "#252627"
 
+  comments = "true"
+
+  talkyardServerUrl = "https://comments-for-jcos-io.talkyard.net"
+  talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
+
   [params.logo]
     logoText     = "cd home/jcosio"
     logoHomeLink = "/"
@@ -112,13 +118,21 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "contact"
+    name       = "Contact"
+    url        = "contact/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "Blog"
     url        = "posts/"
+#  [[menu.main]]
+#    identifier = "gunpla"
+#    name       = "Gunpla"
+#    url        = "tags/gunpla/"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Portfolio"
+    url        = "projects/"
 
 [home]
   [[menu.cta]]
@@ -129,3 +143,7 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "-> Learn more about what I do here"
     url        = "about/"
+  [[menu.cta]]
+    identifier = "gunpla/"
+    name       = "-> See my little robots"
+    url        = "tags/gunpla/"
