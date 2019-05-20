@@ -1,4 +1,6 @@
 baseURL = "https://johncosio.com/"
+relativeURLs = true
+uglyURLs = true
 
 title   = "John Cosio"
 
