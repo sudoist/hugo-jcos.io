@@ -2,6 +2,20 @@ baseurl = "https://johncosio.com/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+
+# googleAnalytics = ""
+
+[author]
+  name = "John Cosio"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -58,6 +72,13 @@ theme = "hello-friend-ng"
   [[params.social]]
     name = "linkedin"
     url  = "https://ph.linkedin.com/in/johncosio"
+
+[languages]
+  [languages.en]
+    title  = "John Cosio"
+    subtitle  = "Gaming and stuff"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 # And you can even create generic menu
 [menu]
