@@ -90,3 +90,18 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+# Home CTA links
+[home]
+  [[menu.cta]]
+    identifier = "work"
+    name       = "-> Portfolio and work stuff"
+    url        = "work/"
+  [[menu.cta]]
+    identifier = "about"
+    name       = "-> Learn more about what I do here"
+    url        = "about/"
+  [[menu.cta]]
+    identifier = "gunpla/"
+    name       = "-> See my little robots"
+    url        = "categories/gunpla/"
