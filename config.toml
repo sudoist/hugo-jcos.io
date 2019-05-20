@@ -9,41 +9,55 @@ theme = "hello-friend-ng"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Djordje Atlialp"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  description = "Gaming and stuff on John Cosio…"
+  keywords = "Homepage, Blog, Programming, Photoshop, Gaming, Gunpla, Blog"
   images = [""]
+
+  # Homepage
+  homeHeader = "Greetings traveller!"
+  homeMessage1 = "Sit back, relax and play some games."
+  homeMessage2 = "We can talk about work too."
+  homeMessage3 = "How can I help you?"
+  homeCTA1 = "Hang around"
+  homeCTA2 = "Discuss work stuff"
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = ["/css/styles.css", "/css/responsive.css"]
+  customJS  = []
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-[languages]
-  [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = ""
-    readOtherPosts = "Read other posts"
+  # Comments
+  comments = "true"
 
-    [languages.en.params.logo]
-      logoText = "hello friend ng"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+  talkyardServerUrl = "https://comments-for-jcos-io.talkyard.net"
+  talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
-	# You can create a language based menu
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+  [params.logo]
+    logoText     = "cd home/jcosio"
+    logoHomeLink = "/"
+    path         = "/images/logo.png"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:mail@jcos.io"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UCRHhhzP8dUEp_PS9eNUU2-A"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/sudoist"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://ph.linkedin.com/in/johncosio"
 
 # And you can even create generic menu
 [menu]
