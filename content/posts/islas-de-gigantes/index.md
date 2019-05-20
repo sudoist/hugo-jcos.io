@@ -9,7 +9,7 @@ guid: https://jcos.io/?p=670
 permalink: /?p=676
 image: /app/uploads/2019/05/john-cosio-1134231-unsplash-2-1568x1176.jpg
 categories:
-  - Anything Goes
+  - Photography
 tags:
   - Photography
   - Unsplash
