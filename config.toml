@@ -90,6 +90,10 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "project"
+    name       = "Projects"
+    url        = "/projects"
 
 # Home CTA links
 [home]
