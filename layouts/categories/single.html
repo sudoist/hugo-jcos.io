@@ -54,5 +54,13 @@
                 {{- partial "comments.html" . -}}
             </div>
         {{ end }}
+
+        <div id="related" class="thin">
+            {{- partial "related.html" . -}}
+        </div>
+
+        <div id="sharing" class="thin">
+            {{- partial "social-share.html" . -}}
+        </div>
     </main>
 {{ end }}
