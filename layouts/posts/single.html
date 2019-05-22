@@ -23,7 +23,7 @@
                 <hr />
             {{- end }}
 
-            {{ with .Resources.GetMatch "{images/cover.*}" }}
+            {{ with .Resources.GetMatch "{cover.*}" }}
                 <img class='post-cover' src="{{ .RelPermalink }}" />
             {{ end }}
 
