@@ -1,20 +1,14 @@
----
-id: 676
-title: Islas de Gigantes
-date: 2019-05-10T03:39:40+00:00
-author: John
-excerpt: |
-layout: post
-guid: https://jcos.io/?p=670
-permalink: /?p=676
-image: /app/uploads/2019/05/john-cosio-1134231-unsplash-2-1568x1176.jpg
-categories:
-  - Photography
-tags:
-  - Photography
-  - Unsplash
-discussionId: islas-de-gigantes
----
++++
+categories = ["Photography","Travel","Project"]
+tags = ["Unsplash","Photography","Travel"]
+date = "2019-05-10T03:39:40+00:00"
+description = "Islas de Gigantes on Unsplash"
+cover = "cover.jpg"
+title = "Islas de Gigantes"
+slug = "Islas de Gigantes"
+layout = "post"
++++
+
 [Islas de Gigantes, Carles, Philippines](https://unsplash.com/search/photos/islas-de-gigantes%2C-carles%2C-philippines)
 
 Hello,
@@ -27,9 +21,10 @@ I was too lazy to write something about the trip with the other photos.
 
 Feels good to see this being used by other people.
 
-### Please do check out Anita&#8217;s [45 Of The Most Stunning Paradises Around The World](https://anitahendrieka.com/45-of-the-most-stunning-paradises-around-the-world)
+### Please do check out Anita's:
+#### [45 Of The Most Stunning Paradises Around The World](https://anitahendrieka.com/45-of-the-most-stunning-paradises-around-the-world)
 
-
+Maybe I'll try to add some more blogs that use my photos.
 
 Happy travelling!
 

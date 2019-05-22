@@ -10,6 +10,7 @@ permalink: /?p=642
 image: /app/uploads/2019/04/sinanju-5-1568x1176.png
 categories:
   - Gunpla
+  - Project
 tags:
   - Custom Paint
   - Design
