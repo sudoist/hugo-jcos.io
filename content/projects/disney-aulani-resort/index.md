@@ -15,9 +15,7 @@ Mostly worked on the front-end implementation of redesign.
 
 Just did the CSS and a little template here and there.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="http://johncosio.com/app/uploads/2019/04/122c4d5f-0ace-4c76-9284-a583026ee9b6-4-250x1024.jpg" alt="" class="wp-image-665" srcset="https://johncosio.com/app/uploads/2019/04/122c4d5f-0ace-4c76-9284-a583026ee9b6-4-250x1024.jpg 250w, https://johncosio.com/app/uploads/2019/04/122c4d5f-0ace-4c76-9284-a583026ee9b6-4-73x300.jpg 73w, https://johncosio.com/app/uploads/2019/04/122c4d5f-0ace-4c76-9284-a583026ee9b6-4-768x3146.jpg 768w, https://johncosio.com/app/uploads/2019/04/122c4d5f-0ace-4c76-9284-a583026ee9b6-4-1568x6423.jpg 1568w" sizes="(max-width: 250px) 100vw, 250px" /></figure>
-</div>
+![Aulani Room Rates page](/uploads/aulani-page.jpg)
 
 So starting from this page until checkout are what I&#8217;ve worked on this project.
 

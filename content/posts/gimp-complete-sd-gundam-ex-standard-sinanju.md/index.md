@@ -1,27 +1,24 @@
----
-id: 642
-title: 'GIMP Complete: SD Gundam EX-Standard Sinanju'
-date: 2019-04-25T03:21:55+00:00
-author: John
-excerpt: |
-layout: post
-guid: https://jcos.io/?p=642
-permalink: /?p=642
-image: /app/uploads/2019/04/sinanju-5-1568x1176.png
-categories:
-  - Gunpla
-  - Project
-tags:
-  - Custom Paint
-  - Design
-  - GIMP
-  - Gundam EX-Standard Sinanju
-  - Gunpla
-  - Photoshop
-  - SD
----
++++
+categories = ["Gunpla","Project"]
+tags = [
+  "Design",
+  "GIMP",
+  "Gundam EX-Standard Sinanju",
+  "Gunpla",
+  "Photoshop",
+  "SD"
+]
+date = "2019-04-25T03:21:55+00:00"
+summary = "Photo editing SD Gundam EX-Standard Sinanju with GIMP. Playing around with changing the Gundam’s color."
+cover = "cover.jpg"
+title = "GIMP Complete: SD Gundam EX-Standard Sinanju"
+slug = "GIMP Complete: SD Gundam EX-Standard Sinanju"
+layout = "post"
++++
+
+![SD Gundam EX-Standard Sinanju](/uploads/sinanju-kit.jpg)
+
 <div class="wp-block-media-text alignwide" style="grid-template-columns:25% auto">
-  <figure class="wp-block-media-text__media"><img src="http://johncosio.com/app/uploads/2019/04/sinanju-3.jpg" alt="" class="wp-image-644" /></figure>
 
   <div class="wp-block-media-text__content">
     <h2>
@@ -44,15 +41,11 @@ tags:
 
 ## Before
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="http://johncosio.com/app/uploads/2019/04/20190415_020144-3-1024x768.jpg" alt="" class="wp-image-587" srcset="https://johncosio.com/app/uploads/2019/04/20190415_020144-3-1024x768.jpg 1024w, https://johncosio.com/app/uploads/2019/04/20190415_020144-3-300x225.jpg 300w, https://johncosio.com/app/uploads/2019/04/20190415_020144-3-768x576.jpg 768w, https://johncosio.com/app/uploads/2019/04/20190415_020144-3-1568x1176.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-</div>
+![SD Gundam EX-Standard Sinanju](/uploads/sinanju-before.jpg)
 
 ## After
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="http://johncosio.com/app/uploads/2019/04/sinanju-5-1024x768.png" alt="" class="wp-image-654" srcset="https://johncosio.com/app/uploads/2019/04/sinanju-5-1024x768.png 1024w, https://johncosio.com/app/uploads/2019/04/sinanju-5-300x225.png 300w, https://johncosio.com/app/uploads/2019/04/sinanju-5-768x576.png 768w, https://johncosio.com/app/uploads/2019/04/sinanju-5-1568x1176.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-</div>
+![SD Gundam EX-Standard Sinanju](/uploads/sinanju-after.png)
 
 A quick edit with colors.
 
@@ -67,9 +60,6 @@ Also I&#8217;ve recorded the editing so I can post some speed edit videos. Yey!
 One more SD remaining from initial stocks (Might buy 1 last more).
 
 Unicorn Phenex up next!
-
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="http://johncosio.com/app/uploads/2019/04/20190405_100945-e1556135042687-3-768x1024.jpg" alt="" class="wp-image-659" /></figure>
-</div>
+![Gundam kits to build list](/uploads/initial-kits.jpg)
 
 Saving the Magnum for last in this set.

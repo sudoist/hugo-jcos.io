@@ -2,7 +2,7 @@
 categories = ["Photography","Travel","Project"]
 tags = ["Unsplash","Photography","Travel"]
 date = "2019-05-10T03:39:40+00:00"
-description = "Islas de Gigantes on Unsplash"
+summary = "Sharing my Islas de Gigantes photos on Unsplash"
 cover = "cover.jpg"
 title = "Islas de Gigantes"
 slug = "Islas de Gigantes"
