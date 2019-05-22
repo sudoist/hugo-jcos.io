@@ -23,8 +23,8 @@
                 <hr />
             {{- end }}
 
-            {{ with .Params.Cover }}
-                <img src="/img/{{ . }}" class="post-cover" />
+            {{ with .Resources.GetMatch "{images/cover.*}" }}
+                <img class='post-cover' src="{{ .RelPermalink }}" />
             {{ end }}
 
             <div class="post-content">
@@ -54,5 +54,11 @@
                 {{- partial "comments.html" . -}}
             </div>
         {{ end }}
+
+        <div id="related" class="thin">
+            {{- partial "related.html" . -}}
+        </div>
+
+
     </main>
 {{ end }}
