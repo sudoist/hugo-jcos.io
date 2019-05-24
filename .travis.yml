@@ -1,0 +1,23 @@
+language: go
+go:
+  - master
+addons:
+  ssh_known_hosts: johncosio.com
+before_install:
+  - openssl aes-256-cbc -K $encrypted_4a397300a480_key -iv $encrypted_4a397300a480_iv
+    -in travis_rsa.enc -out travis_rsa -d
+  - chmod 600 travis_rsa
+  - mv travis_rsa ~/.ssh/id_rsa
+  - git submodule update --init --recursive
+install:
+  - export TRAVIS_BUILD_DIR=$(pwd)
+  - mkdir $HOME/src
+  - cd $HOME/src
+  - git clone https://github.com/gohugoio/hugo.git
+  - cd hugo
+  - go install
+  - cd $TRAVIS_BUILD_DIR
+script:
+  - hugo -d public
+after_success:
+  - bash ./deploy.sh
