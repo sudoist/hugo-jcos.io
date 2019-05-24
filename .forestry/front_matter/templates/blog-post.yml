@@ -1,0 +1,40 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: number
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: guid
+  label: guid
+- type: text
+  name: permalink
+  label: permalink
+- type: list
+  name: beans_layout
+  label: beans_layout
+- type: file
+  name: image
+  label: image
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
