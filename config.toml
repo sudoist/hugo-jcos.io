@@ -24,7 +24,7 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 
   # Metadata mostly used in document's head
   description = "Gaming and stuff on John Cosio…"
-  keywords = "Homepage, Blog, Programming, Photoshop, Gaming, Gunpla, Blog"
+  keywords = "Homepage, Blog, Programming, Photoshop, Gaming, Gunpla"
   images = [""]
 
   # Homepage
@@ -90,6 +90,10 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "project"
+    name       = "Projects"
+    url        = "/projects"
 
 # Home CTA links
 [home]

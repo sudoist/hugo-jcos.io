@@ -1,22 +1,14 @@
----
-id: 379
-title: 'So many games so little time: Crashlands'
-date: 2018-03-30T10:50:08+00:00
-author: John
-excerpt: |
-layout: post
-guid: http://jcos.io/?p=379
-permalink: /?p=379
-beans_layout:
-  - default_fallback
-  - default_fallback
-image: /app/uploads/2018/04/crashlands-e1522577491125-3.png
-categories:
-  - Gaming
-tags:
-  - Crafting
-  - Games
----
++++
+categories = ["Gaming"]
+tags = ["Adventure","Android","Crafting","Games"]
+date = "2018-03-30T10:50:08+00:00"
+description = "Quick summary and review of Crashlands. Played on my phone. Don't you have phones?"
+cover = "cover.jpg"
+title = "So many games so little time: Crashlands"
+slug = "So many games so little time: Crashlands"
+layout = "post"
++++
+
 Hey there! Just finished Crashlands. I really enjoyed every session and lost some sleep. Just one more recipeee!!!
 Crashlands was released in 2016, I was pretty late for the party but no worries still got to play it. It went on sale some time ago on Steam and Google play so I went with the Android version since I thought I might be able to play that more often(Also cheaper).
 
@@ -44,16 +36,8 @@ If you are thinking about playing a new game with great fun story and can keep y
 
 There&#8217;s also a nice story of how they start up working on Crashlands.
 
-&nbsp;
-
 Thinking of adding gameplay videos here on another post.
-
-&nbsp;
-
-&nbsp;
 
 That&#8217;s all for now.
 
 Until next game, bye!
-
-&nbsp;
