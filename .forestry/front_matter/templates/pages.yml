@@ -1,0 +1,28 @@
+---
+label: Pages
+hide_body: false
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: layout
+  label: layout
