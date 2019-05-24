@@ -1,0 +1,46 @@
+{{ define "main" }}
+    <main class="post">
+
+        <div class="post-info">
+            {{ if .IsTranslated }}
+                {{ i18n "postAvailable" }}
+                {{ range .Translations }}
+                    <a href="{{ .Permalink }}"><span class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
+                {{ end}}
+            {{ end }}
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+
+            {{- if .Params.toc }}
+                <hr />
+                <aside id="toc">
+                <div class="toc-title">{{ i18n "tableOfContents" }}</div>
+                    {{ .TableOfContents }}
+                </aside>
+                <hr />
+            {{- end }}
+
+            {{ with .Resources.GetMatch "{cover.*}" }}
+                <img class='post-cover' src="{{ .RelPermalink }}" />
+            {{ end }}
+
+            <div class="post-content">
+                {{ .Content }}
+            </div>
+        </article>
+
+        {{- with .Site.Params.social }}
+        <div>
+            {{ partial "social-icons.html" . }}
+        </div>
+        {{- end }}
+
+        <hr />
+
+        {{- partial "subscription-form.html" . -}}
+
+    </main>
+{{ end }}

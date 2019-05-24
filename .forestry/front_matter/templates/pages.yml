@@ -27,4 +27,4 @@ fields:
   name: layout
   label: layout
 pages:
-- content/a-little-about-me.md
+- content/about.md
