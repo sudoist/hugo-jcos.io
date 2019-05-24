@@ -3,7 +3,6 @@ categories = []
 cover = ""
 date = "2019-05-23T16:00:00+00:00"
 description = "Hello, my name is John Cosio.\nI’m a programmer, webmaster and all-around computer guy."
-draft = true
 layout = "post"
 slug = "about"
 tags = ["About"]
