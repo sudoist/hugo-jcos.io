@@ -98,9 +98,9 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 # Home CTA links
 [home]
   [[menu.cta]]
-    identifier = "work"
+    identifier = "project"
     name       = "-> Portfolio and work stuff"
-    url        = "work/"
+    url        = "projects/"
   [[menu.cta]]
     identifier = "about"
     name       = "-> Learn more about what I do here"
