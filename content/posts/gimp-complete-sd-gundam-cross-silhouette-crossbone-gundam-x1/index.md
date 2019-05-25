@@ -1,6 +1,6 @@
 +++
 categories = ["Gunpla", "Project"]
-cover = "/posts/galleries/gimp-crossbones/xboneswbg.png"
+cover = "gallery/xboneswbg.png"
 date = "2019-04-24"
 layout = "post"
 slug = "GIMP Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
@@ -34,7 +34,7 @@ I’ve tried with a pink background with a folder then to make it stand with a c
 
 Well gotta improvise until a proper base.
 
-{{< folder-gallery src="galleries/gimp-crossbones/" >}}
+{{< folder-gallery src="gallery/" >}}
 
 ## Before
 
