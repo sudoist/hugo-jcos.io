@@ -9,6 +9,10 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 
 # googleAnalytics = ""
 
+disableFastRender = true
+
+enableEmoji = "true"
+
 [author]
   name = "John Cosio"
 
