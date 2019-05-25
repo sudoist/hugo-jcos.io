@@ -1,7 +1,7 @@
 +++
 categories = ["Gunpla", "Project"]
 cover = "/posts/galleries/gimp-crossbones/xboneswbg.png"
-date = "2019-04-25T03:21:55+00:00"
+date = "2019-04-24"
 layout = "post"
 slug = "GIMP Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
 summary = "Photo editing SD Gundam Cross Silhouette Crossbone Gundam X1 with GIMP."
