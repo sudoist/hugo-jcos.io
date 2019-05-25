@@ -1,0 +1,37 @@
+<!-- "site root"\layouts\shortcodes\foldergallery.html -->
+
+<style>
+  div.gallery {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  div.gallery a {
+    flex-grow: 1;
+    object-fit: cover;
+    margin: 2px;
+    display: flex;
+  }
+
+  div.gallery a img {
+    height: 200px;
+    object-fit: cover;
+    flex-grow: 1;
+  }
+
+</style>
+
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<div class="gallery">
+  {{ $directory := print "/content/" .Page.Dir (.Get "src") }}
+  {{ $filePath := print .Page.Dir (.Get "src") }}
+  {{ range (readDir $directory)  }}
+  {{ $src := print "/" $filePath "/" .Name }}
+  <a data-fancybox="gallery" href="{{ $src }}">
+    <img src="{{ $src }}">  <br/>
+  </a>
+  {{ end }}
+</div>
