@@ -15,8 +15,31 @@
                         <li class="post-item">
 
                             <a href="{{.Permalink}}">
-                                {{ with .Params.cover }}
-                                    <img class='post-image' src="{{.}}" />
+                                {{ with .Resources.GetMatch (.Params.cover) }}
+
+                                {{- partial "image-processing.html" . -}}
+                                {{/* Move this to partial ^ */}}
+
+                                {{ $resource := .Params.cover }}
+                                {{ $tinyw := default "500x" }}
+                                {{ $smallw := default "800x" }}
+                                {{ $mediumw := default "1200x" }}
+                                {{ $largew := default "1500x" }}
+
+                                {{ $tiny := (.Resize $tinyw ) "500w" }}
+                                {{ $small := (.Resize $smallw) "800w" }}
+                                {{ $medium := (.Resize $mediumw) "1200w" }}
+                                {{ $large := (.Resize $largew) "1500w" }}
+
+                                <img
+                                    sizes="(min-width: 35em) 1200px, 100vw"
+                                    srcset='
+                                      {{ $small.Permalink }},
+                                      {{ $medium.Permalink }},
+                                      {{ $large.Permalink }}
+                                    '
+                                    src="{{ .Permalink }}"
+                                >
                                 {{ end }}
                             </a>
                             <a href="{{.Permalink}}">
