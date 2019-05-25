@@ -58,20 +58,28 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 
   # Social icons
   [[params.social]]
-    name = "email"
-    url  = "mailto:mail@jcos.io"
+    name = "backloggery"
+    url  = "https://backloggery.com/sudoist"
 
   [[params.social]]
-    name = "youtube"
-    url  = "https://www.youtube.com/channel/UCRHhhzP8dUEp_PS9eNUU2-A"
+    name = "linkedin"
+    url  = "https://ph.linkedin.com/in/johncosio"
 
   [[params.social]]
     name = "github"
     url  = "https://github.com/sudoist"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://ph.linkedin.com/in/johncosio"
+    name = "unsplash"
+    url  = "https://unsplash.com/@jcosio"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UCRHhhzP8dUEp_PS9eNUU2-A"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:mail@jcos.io"
 
 [languages]
   [languages.en]
