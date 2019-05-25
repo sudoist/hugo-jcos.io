@@ -50,11 +50,11 @@ I’m planning to contribute in the development of Open Source software I regula
 
 My take take on things around me and adding a little twist to common words and sentences.
 
-I’ll draw puns inspired by [Chris Butler collection](http://www.chrisbutlercollection.com/just-for-pun) and funny comics from the [The Oatmeal](http://theoatmeal.com/).
+I draw puns inspired by [Chris Butler collection](http://www.chrisbutlercollection.com/just-for-pun) and funny comics from the [The Oatmeal](http://theoatmeal.com/).
 
-Edit photos of Gundams to make it look cool then probably hand paint them later.
+Edit photos of [Gundams](categories/gunpla/ "Gunpla") to make it look cool then probably hand paint them later.
 
-Shoot picturesque scenery with my handy phone. (Pretty much hit and miss)
+Shoot picturesque [scenery](posts/islas-de-gigantes/islas-de-gigantes/ "Photography") with my handy phone. (Pretty much hit and miss)
 
 #### Interested to work with me? Here's my card..
 
