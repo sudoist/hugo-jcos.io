@@ -8,7 +8,7 @@ categories = ["Gunpla", "Project"]
 tags = [
   "Design",
   "GIMP",
-  "SD Gundam EX-Standard Gundam Deathscythe-Hell EW",
+  "Gundam EX-Standard Gundam Deathscythe-Hell EW",
   "Gunpla",
   "Photoshop",
   "SD"
