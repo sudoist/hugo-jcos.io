@@ -1,8 +1,7 @@
 +++
 date = "2019-04-11"
 title = "Build Complete: SD Gundam EX-Standard Gundam Deathscythe-Hell EW"
-slug = "Build Complete: SD Gundam EX-Standard Gundam Deathscythe-Hell EW"
-cover = "/posts/galleries/build-sd-deathscythe-ew/deathscythe-p1-1.0.png"
+cover = "gallery/deathscythe-p1-1.0.png"
 summary = "Building SD Gundam EX-Standard Gundam Deathscythe-Hell EW."
 categories = ["Gunpla"]
 tags = [
@@ -21,7 +20,7 @@ Figured I can edit them to add details then clean up nubs.
 
 ### Picture time!
 
-{{< folder-gallery src="galleries/build-sd-deathscythe-ew" >}}
+{{< folder-gallery src="gallery" >}}
 
 Tried editing the background out and replacing with space.
 
