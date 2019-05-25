@@ -18,8 +18,6 @@ layout = "post"
 
 #### Model Kit: [SD Gundam EX-Standard Wing Gundam Zero EW](#)
 
-![GIMP Complete: SD Gundam EX-Standard Wing Gundam Zero EW](/uploads/wing-p2.png)
-
 So after looking around on how to paint and what best way to do this, I ended up coloring and working on this using my computer.
 
 This is the previous SD we built – [Wing Gundam EW](#)
