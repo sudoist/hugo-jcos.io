@@ -2,7 +2,7 @@
 date = "2019-04-06"
 title = "Build Complete: SD Gundam EX-Standard Wing Gundam Zero EW"
 slug = "Build Complete: SD Gundam EX-Standard Wing Gundam Zero EW"
-cover = "/posts/galleries/build-sd-wing-ew/1120190409_221035-e1555228148642.jpg"
+cover = "gallery/1120190409_221035-e1555228148642.jpg"
 summary = "Building SD Gundam EX-Standard Wing Gundam Zero EW."
 categories = ["Gunpla"]
 tags = [
@@ -25,4 +25,4 @@ I wanted to start painting but currently still looking and learning from tutoria
 
 I’m not sure if this Endless Waltz batch of SD have all of the EW Gundams but it would be great to collect all.
 
-{{< folder-gallery src="galleries/build-sd-wing-ew/" >}}
+{{< folder-gallery src="gallery" >}}
