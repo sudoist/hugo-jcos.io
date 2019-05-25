@@ -24,7 +24,7 @@ Java is not my cup of…. water. Not much of a coffee or tea drinker.
 
 Too complicated for me and back in college I used to skip classes. hahahaha
 
-Not funny? Okay, let’s forget that happened. ^_^
+Not funny? Okay, let’s forget that happened. :smile:
 
 ***
 
