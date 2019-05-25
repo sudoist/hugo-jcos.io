@@ -1,6 +1,6 @@
 +++
 categories = ["Gunpla", "Project"]
-cover = ""
+cover = "/uploads/sinanju-cover.png"
 date = "2019-04-25T03:21:55+00:00"
 layout = "post"
 slug = "GIMP Complete: SD Gundam EX-Standard Sinanju"
