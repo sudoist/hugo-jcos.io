@@ -26,12 +26,40 @@
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <div class="gallery">
-  {{ $directory := print "/content/" .Page.Dir (.Get "src") }}
-  {{ $filePath := print .Page.Dir (.Get "src") }}
-  {{ range (readDir $directory)  }}
-  {{ $src := print "/" $filePath "/" .Name }}
-  <a data-fancybox="gallery" href="{{ $src }}">
-    <img src="{{ $src }}">  <br/>
-  </a>
+
+  {{ with .Page.Resources.ByType "image" }}
+
+
+    {{ range . }}
+
+      {{- partial "image-processing.html" . -}}
+      {{/* Move this to partial ^ */}}
+
+      {{ $tinyw := default "500x" }}
+      {{ $smallw := default "800x" }}
+      {{ $mediumw := default "1200x" }}
+      {{ $largew := default "1500x" }}
+
+      {{ $tiny := (.Resize $tinyw ) "500w" }}
+      {{ $small := (.Resize $smallw) "800w" }}
+      {{ $medium := (.Resize $mediumw) "1200w" }}
+      {{ $large := (.Resize $largew) "1500w" }}
+
+      <a data-fancybox="gallery" href="{{ .Permalink }}">
+        <img
+          sizes="(min-width: 35em) 1200px, 100vw"
+          srcset='
+                      {{ $small.Permalink }},
+                      {{ $medium.Permalink }},
+                      {{ $large.Permalink }}
+                    '
+          src="{{ .Permalink }}"
+        >
+        <br>
+      </a>
+    {{ end }}
+
   {{ end }}
+
+
 </div>
