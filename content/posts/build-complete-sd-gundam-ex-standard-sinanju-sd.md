@@ -4,7 +4,7 @@ title = "Build Complete: SD Gundam EX-Standard Sinanju"
 slug = "Build Complete: SD Gundam EX-Standard Sinanju"
 cover = "/uploads/20190415_012717.jpg"
 summary = "Building SD Gundam EX-Standard Sinanju."
-categories = ["Gunpla", "Project"]
+categories = ["Gunpla"]
 tags = [
   "Gundam EX-Standard Sinanju",
   "Gunpla",

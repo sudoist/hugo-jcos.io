@@ -4,7 +4,7 @@ title = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
 slug = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
 cover = "/uploads/20190415_014341.jpg"
 summary = "Building SD Gundam Cross Silhouette Crossbone Gundam X1."
-categories = ["Gunpla", "Project"]
+categories = ["Gunpla"]
 tags = [
   "Gundam Cross Silhouette Crossbone Gundam X1",
   "Gunpla",
