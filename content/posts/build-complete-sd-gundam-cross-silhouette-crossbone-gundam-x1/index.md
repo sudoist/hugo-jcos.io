@@ -2,7 +2,7 @@
 date = "2019-04-14"
 title = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
 slug = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
-cover = "/uploads/20190415_014341.jpg"
+cover = "gallery/320190415_014341.jpg"
 summary = "Building SD Gundam Cross Silhouette Crossbone Gundam X1."
 categories = ["Gunpla"]
 tags = [
@@ -25,9 +25,7 @@ Maybe I can get one every payday. Maybe…. or more….
 
 Anyway we have this Gundam Crossbones. He looks like a pirate, I’m not familiar with the story but he sure looks cool.
 
-Building Process
-
-{{< folder-gallery src="galleries/build-crossbones/building" >}}
+### Building Process
 
 These are really getting easier the more kits I work on.
 
@@ -49,4 +47,4 @@ I’ll be calling this Photoshop since that’s what it’s commonly called but 
 
 ### Now to pose and take some photos
 
-{{< folder-gallery src="galleries/build-crossbones/complete" >}}
+{{< folder-gallery src="/gallery" >}}
