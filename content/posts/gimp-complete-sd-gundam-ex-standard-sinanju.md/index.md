@@ -1,21 +1,14 @@
 +++
-categories = ["Gunpla","Project"]
-tags = [
-  "Design",
-  "GIMP",
-  "Gundam EX-Standard Sinanju",
-  "Gunpla",
-  "Photoshop",
-  "SD"
-]
+categories = ["Gunpla", "Project"]
+cover = ""
 date = "2019-04-25T03:21:55+00:00"
-summary = "Photo editing SD Gundam EX-Standard Sinanju with GIMP. Playing around with changing the Gundam’s color."
-cover = "cover.jpg"
-title = "GIMP Complete: SD Gundam EX-Standard Sinanju"
-slug = "GIMP Complete: SD Gundam EX-Standard Sinanju"
 layout = "post"
-+++
+slug = "GIMP Complete: SD Gundam EX-Standard Sinanju"
+summary = "Photo editing SD Gundam EX-Standard Sinanju with GIMP. Playing around with changing the Gundam’s color."
+tags = ["Design", "GIMP", "Gundam EX-Standard Sinanju", "Gunpla", "Photoshop", "SD"]
+title = "GIMP Complete: SD Gundam EX-Standard Sinanju"
 
++++
 ![SD Gundam EX-Standard Sinanju](/uploads/sinanju-kit.jpg)
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:25% auto">
