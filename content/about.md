@@ -1,6 +1,6 @@
 +++
 categories = []
-cover = ""
+cover = "/uploads/business_card_jcos-300x158.png"
 date = "2019-05-23T16:00:00+00:00"
 description = "Hello, my name is John Cosio.\nI’m a programmer, webmaster and all-around computer guy."
 layout = "about"
