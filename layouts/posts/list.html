@@ -15,8 +15,8 @@
                         <li class="post-item">
 
                             <a href="{{.Permalink}}">
-                                {{ with .Resources.GetMatch "{cover.*}" }}
-                                    <img class='post-image' src="{{ .RelPermalink }}" />
+                                {{ with .Params.cover }}
+                                    <img class='post-image' src="{{.}}" />
                                 {{ end }}
                             </a>
                             <a href="{{.Permalink}}">
