@@ -20,6 +20,8 @@ layout = "post"
 
 This is my first take on painting with GIMP.
 
+![Before Editing Deathscythe](/uploads/deathscythe-p1-0.4-e1554832647330.png)
+
 Subject is the Gundam Deathscythe-Hell EW version.
 
 Practicing adding glowing things to eyes and the scythe.
