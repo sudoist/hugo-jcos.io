@@ -7,7 +7,7 @@ summary = "Spore lets you create vehicles, creatures and buildings and more. Her
 tags = [
   "Simulation",
   "Games",
-  "Creations"
+  "Creations",
   "DotA"
 ]
 title = "Spore.. SporeCraft… What?"
