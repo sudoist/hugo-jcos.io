@@ -38,3 +38,5 @@ I got some more posts coming up. Cleaning up the Gundam Crossbones and working o
 Still 2 more SD then moving on to my MG kit or get some HG for practice.
 
 This is actually quite relaxing. Haven’t opened Steam in a while.
+
+Space background image in edited photo by [Alexander Andrews](https://unsplash.com/@alex_andrews?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)

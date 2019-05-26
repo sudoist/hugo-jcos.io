@@ -6,7 +6,7 @@
             <div class="content">{{ .Content }}</div>
         {{- end }}
 
-        {{- range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+        {{- range (.Paginate (.Pages.GroupByDate "2006") 7 ).PageGroups }}
             <div class="posts-group">
                 <div class="post-year">{{ .Key }}</div>
 

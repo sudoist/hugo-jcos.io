@@ -23,5 +23,3 @@ Figured I can edit them to add details then clean up nubs.
 {{< folder-gallery src="gallery" >}}
 
 Tried editing the background out and replacing with space.
-
-Space background image in edited photo by [Alexander Andrews](https://unsplash.com/@alex_andrews?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)

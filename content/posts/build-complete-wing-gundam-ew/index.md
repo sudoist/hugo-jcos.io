@@ -1,5 +1,5 @@
 +++
-date = "2019-04-06"
+date = "2019-04-16"
 title = "Build Complete: SD Gundam EX-Standard Wing Gundam Zero EW"
 cover = "gallery/1120190409_221035-e1555228148642.jpg"
 summary = "Building SD Gundam EX-Standard Wing Gundam Zero EW."
