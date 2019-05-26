@@ -1,7 +1,6 @@
 +++
 date = "2019-04-14"
 title = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
-slug = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
 cover = "gallery/320190415_014341.jpg"
 summary = "Building SD Gundam Cross Silhouette Crossbone Gundam X1."
 categories = ["Gunpla"]

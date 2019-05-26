@@ -3,7 +3,6 @@ categories = ["Gunpla", "Project"]
 cover = "gallery/xboneswbg.png"
 date = "2019-04-24"
 layout = "post"
-slug = "GIMP Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
 summary = "Photo editing SD Gundam Cross Silhouette Crossbone Gundam X1 with GIMP."
 tags = [
   "Design",
@@ -38,11 +37,11 @@ Well gotta improvise until a proper base.
 
 ## Before
 
-![Before Editing Crossbones](/posts/galleries/gimp-crossbones/20190417_225518.jpg)
+![Before Editing Crossbones](gallery/20190417_225518.jpg)
 
 ## After
 
-![After Editing Crossbones](/posts/galleries/gimp-crossbones/xboneswbg.png)
+![After Editing Crossbones](gallery/xboneswbg.png)
 
 There are some new things I’ve done here.
 

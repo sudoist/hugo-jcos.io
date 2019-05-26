@@ -1,7 +1,6 @@
 +++
 date = "2019-04-10"
 title = "New Hobby: Building little plastic Gundam models"
-slug = "New Hobby: Building little plastic Gundam models"
 cover = "gallery/20190406_145636.jpg"
 summary = "Last week I got back from Japan. While I was there, the toys especially Gundam kits seems cheaper so I picked up a couple."
 categories = ["Gunpla"]
