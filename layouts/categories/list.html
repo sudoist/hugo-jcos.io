@@ -13,11 +13,8 @@
                 <ul class="posts-list">
                     {{- range .Pages }}
                         <li class="post-item">
-
-                            <a href="{{.Permalink}}">
-                                {{ with .Params.cover }}
-                                    <img class='post-image' src="{{.}}" />
-                                {{ end }}
+                            <a href="{{ .Permalink }}">
+                                <img class='post-image' src="{{ .Permalink }}{{ .Params.cover }}" />
                             </a>
                             <a href="{{.Permalink}}">
                                 <span class="post-title">{{.Title}}</span>
