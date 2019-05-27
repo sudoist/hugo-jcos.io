@@ -43,7 +43,7 @@ If you would also like to build this kit you can get it on Amazon with the link 
 
 [{{<image src="20190406_134725.jpg">}}](https://amzn.to/2Wrz2qq)
 
-#### [fiModel Kit: SD Gundam EX-Standard Gundam Deathscythe-Hell EW](https://amzn.to/2Wrz2qq) 
+#### [Model Kit: SD Gundam EX-Standard Gundam Deathscythe-Hell EW](https://amzn.to/2Wrz2qq)
 >:point_up: *I may receive a commission for purchases made through these links.*
 
 This is actually quite relaxing. Haven’t opened Steam in a while.
