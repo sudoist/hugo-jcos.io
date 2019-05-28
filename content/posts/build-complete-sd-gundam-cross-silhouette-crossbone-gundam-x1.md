@@ -10,6 +10,7 @@ tags = [
   "SD"
 ]
 layout = "post"
+gallerySrc = "build-sd-xbones"
 gallery = [
   "20190415_014707-e1556128725996_dusd6b.jpg",
   "20190414_233725-e1556128747187_krmrjj.jpg",
@@ -53,4 +54,4 @@ I’ll be calling this Photoshop since that’s what it’s commonly called but 
 
 ### Now to pose and take some photos
 
-{{< folder-gallery src="build-sd-xbones" >}}
+{{<folder-gallery>}}
