@@ -1,0 +1,8 @@
+
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := .Get "src" }}
+
+<img
+    class="post-image"
+    src="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinarySmall }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $src }}"
+>
