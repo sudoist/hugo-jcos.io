@@ -1,7 +1,7 @@
 +++
 date = "2019-04-14"
 title = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
-cover = "gallery/320190415_014341.jpg"
+cover = "320190415_014341_yaslyu.jpg"
 summary = "Building SD Gundam Cross Silhouette Crossbone Gundam X1."
 categories = ["Gunpla"]
 tags = [
@@ -10,6 +10,13 @@ tags = [
   "SD"
 ]
 layout = "post"
+gallery = [
+  "20190415_014707-e1556128725996_dusd6b.jpg",
+  "20190414_233725-e1556128747187_krmrjj.jpg",
+  "320190415_014341_yaslyu.jpg",
+  "20190414_230615-e1556128761609_epszal.jpg",
+  "20190415_014602-e1556128736410_dsdrpl.jpg"
+]
 +++
 
 ### Model Kit: [SD Gundam Cross Silhouette Crossbone Gundam X1](#)
@@ -46,4 +53,4 @@ I’ll be calling this Photoshop since that’s what it’s commonly called but 
 
 ### Now to pose and take some photos
 
-{{< folder-gallery src="/gallery" >}}
+{{< folder-gallery src="build-sd-xbones" >}}

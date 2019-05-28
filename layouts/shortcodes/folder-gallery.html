@@ -8,12 +8,12 @@
   div.gallery a {
     flex-grow: 1;
     object-fit: cover;
-    margin: 2px;
+    margin: 5px;
     display: flex;
   }
 
   div.gallery a img {
-    height: 200px;
+    height: 300px;
     object-fit: cover;
     flex-grow: 1;
   }
@@ -26,6 +26,24 @@
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <div class="gallery">
+
+  {{ $gallery := .Get "src" }}
+  {{ range $.Page.Params.gallery }}
+
+  <a data-fancybox="gallery" href="#">
+    <img
+            srcset='
+      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }},
+      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMedium }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }},
+      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryLarge }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }}
+      '
+            src="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ . }}"
+    >
+    <br>
+
+  </a>
+
+  {{ end }}
 
   {{ with .Page.Resources.ByType "image" }}
 
@@ -48,10 +66,10 @@
         <img
           sizes="(min-width: 35em) 1200px, 100vw"
           srcset='
-                      {{ $small.Permalink }},
-                      {{ $medium.Permalink }},
-                      {{ $large.Permalink }}
-                    '
+            {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }},
+            {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMedium }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }},
+            {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryLarge }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }}
+          '
           src="{{ .Permalink }}"
         >
         <br>
