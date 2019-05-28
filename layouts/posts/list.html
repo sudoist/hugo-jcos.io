@@ -15,32 +15,43 @@
                         <li class="post-item">
 
                             <a href="{{.Permalink}}">
-                                {{ with .Resources.GetMatch (.Params.cover) }}
-
-                                {{- partial "image-processing.html" . -}}
-                                {{/* Move this to partial ^ */}}
-
-                                {{ $resource := .Params.cover }}
-                                {{ $tinyw := default "500x" }}
-                                {{ $smallw := default "800x" }}
-                                {{ $mediumw := default "1200x" }}
-                                {{ $largew := default "1500x" }}
-
-                                {{ $tiny := (.Resize $tinyw ) "500w" }}
-                                {{ $small := (.Resize $smallw) "800w" }}
-                                {{ $medium := (.Resize $mediumw) "1200w" }}
-                                {{ $large := (.Resize $largew) "1500w" }}
-
+                                {{ if and ($.Site.Params.cloudinaryEnabled) (.Params.cover) }}
                                 <img
                                     class="post-image"
-                                    sizes="(min-width: 35em) 1200px, 100vw"
                                     srcset='
-                                      {{ $small.Permalink }},
-                                      {{ $medium.Permalink }},
-                                      {{ $large.Permalink }}
+                                      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }},
+                                      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMedium }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }},
+                                      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryLarge }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }}
                                     '
                                     src="{{ .Permalink }}"
                                 >
+                                {{ else }}
+
+                                    {{ with .Resources.GetMatch (.Params.cover) }}
+                                    {{- partial "image-processing.html" . -}}
+                                    {{/* Move this to partial ^ */}}
+
+                                    {{ $tinyw := default "500x" }}
+                                    {{ $smallw := default "800x" }}
+                                    {{ $mediumw := default "1200x" }}
+                                    {{ $largew := default "1500x" }}
+
+                                    {{ $tiny := (.Resize $tinyw ) "500w" }}
+                                    {{ $small := (.Resize $smallw) "800w" }}
+                                    {{ $medium := (.Resize $mediumw) "1200w" }}
+                                    {{ $large := (.Resize $largew) "1500w" }}
+
+                                    <img
+                                        class="post-image"
+                                        sizes="(min-width: 35em) 1200px, 100vw"
+                                        srcset='
+                                          {{ $small.Permalink }},
+                                          {{ $medium.Permalink }},
+                                          {{ $large.Permalink }}
+                                        '
+                                        src="{{ .Permalink }}"
+                                    >
+                                    {{ end }}
                                 {{ end }}
                             </a>
                             <a href="{{.Permalink}}">

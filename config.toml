@@ -55,6 +55,17 @@ enableEmoji = "true"
   talkyardServerUrl = "https://comments-for-jcos-io.talkyard.net"
   talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
+  # Media files
+  cloudinaryEnabled = "true"
+  cloudinaryBaseUrl = "https://res.cloudinary.com/langitlupakintoncloud/image/upload/"
+  cloudinaryMediaUrl = "hugo/jcos.io/"
+
+  # Cloudinary image sizes
+  cloudinarySmall = "w_500"
+  cloudinaryDefault = "w_800"
+  cloudinaryMedium = "w_1200"
+  cloudinaryLarge = "w_1500"
+
   [params.logo]
     logoText     = "cd home/jcosio"
     logoHomeLink = "/"

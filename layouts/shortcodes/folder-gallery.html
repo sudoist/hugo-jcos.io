@@ -8,12 +8,12 @@
   div.gallery a {
     flex-grow: 1;
     object-fit: cover;
-    margin: 2px;
+    margin: 5px;
     display: flex;
   }
 
   div.gallery a img {
-    height: 200px;
+    height: 250px;
     object-fit: cover;
     flex-grow: 1;
   }
@@ -27,38 +27,22 @@
 
 <div class="gallery">
 
-  {{ with .Page.Resources.ByType "image" }}
+  {{ $gallery := $.Page.Params.gallerySrc }}
+  {{ range $.Page.Params.gallery }}
 
-    {{ range . }}
+  <a data-fancybox="gallery" href="#">
+    <img
+      srcset='
+      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }},
+      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMedium }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }},
+      {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryLarge }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }}
+      '
+      src="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ . }}"
+    >
+    <br>
 
-      {{- partial "image-processing.html" . -}}
-      {{/* Move this to partial ^ */}}
-
-      {{ $tinyw := default "500x" }}
-      {{ $smallw := default "800x" }}
-      {{ $mediumw := default "1200x" }}
-      {{ $largew := default "1500x" }}
-
-      {{ $tiny := (.Resize $tinyw ) "500w" }}
-      {{ $small := (.Resize $smallw) "800w" }}
-      {{ $medium := (.Resize $mediumw) "1200w" }}
-      {{ $large := (.Resize $largew) "1500w" }}
-
-      <a data-fancybox="gallery" href="{{ .Permalink }}">
-        <img
-          sizes="(min-width: 35em) 1200px, 100vw"
-          srcset='
-                      {{ $small.Permalink }},
-                      {{ $medium.Permalink }},
-                      {{ $large.Permalink }}
-                    '
-          src="{{ .Permalink }}"
-        >
-        <br>
-      </a>
-    {{ end }}
+  </a>
 
   {{ end }}
-
 
 </div>

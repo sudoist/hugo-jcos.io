@@ -1,6 +1,6 @@
 +++
 categories = []
-cover = "/uploads/business_card_jcos-300x158.png"
+cover = "business_card_jcos-300x158_jqgoux.png"
 date = "2019-05-23T16:00:00+00:00"
 description = "Hello, my name is John Cosio.\nI’m a programmer, webmaster and all-around computer guy."
 layout = "about"
@@ -10,7 +10,7 @@ title = "A little about me"
 type = "pages"
 
 +++
-![](/uploads/gravatar-150x150.png)
+{{<tinyImage src = "gravatar-150x150_vp0cd0">}}
 
 #### Hello, my name is John Cosio.
 
@@ -58,7 +58,7 @@ Shoot picturesque [scenery](posts/islas-de-gigantes/islas-de-gigantes/ "Photogra
 
 #### Interested to work with me? Here's my card..
 
-![Business card](/uploads/business_card_jcos-300x158.png)
+{{<tinyImage src = "business_card_jcos-300x158_jqgoux.png">}}
 
 Check out the [projects](/projects) page to see some of my work..
 
