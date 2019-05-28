@@ -27,7 +27,7 @@
 
 <div class="gallery">
 
-  {{ $gallery := .Get "src" }}
+  {{ $gallery := $.Page.Params.gallerySrc }}
   {{ range $.Page.Params.gallery }}
 
   <a data-fancybox="gallery" href="#">
