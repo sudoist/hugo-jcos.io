@@ -3,7 +3,7 @@ categories = ["Design","Development","Project"]
 tags = ["Design","Development","Front-End","UI"]
 date = "2019-04-25T04:08:55+00:00"
 description = "Had a quick gig on the Disney Aulani site. Mostly worked on the front-end implementation of redesign."
-cover = "aulani.png"
+cover = "aulani_kahxbs.png"
 title = "Disney Aulani Resort"
 layout = "post"
 +++
@@ -14,7 +14,7 @@ Mostly worked on the front-end implementation of redesign.
 
 Just did the CSS and a little template here and there.
 
-![Aulani Room Rates page](aulani-page.jpg)
+{{<smallImage src="aulani-page_xlq5in.jpg">}}
 
 So starting from this page until checkout are what I&#8217;ve worked on this project.
 
