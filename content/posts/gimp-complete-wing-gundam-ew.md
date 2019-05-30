@@ -46,7 +46,21 @@ Cons
 
 ---
 
-### Helpful video I saw so far which I used for reference –
+If you would also like to build this kit you can get it on Amazon with the link below.
+
+[{{<tinyImage src="affiliates/10389441_fltkom.jpg">}}](https://amzn.to/2QvDAXc)
+
+#### [Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW](https://amzn.to/2QvDAXc)
+
+>:point_up: *I receive a commission from Amazon for purchases made through these links.*
+
+>*This comes with no additional cost and helps me with ~~food~~ Gundam money*
+
+>*Thank you*
+
+---
+
+### Helpful video I saw so far which I used for reference
 
 {{< youtube 8ZRbiXk-nJo >}}
 

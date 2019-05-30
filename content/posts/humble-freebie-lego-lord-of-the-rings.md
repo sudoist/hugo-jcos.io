@@ -19,7 +19,13 @@ title = "Humble Freebie: LEGO Lord of the Rings"
 
 Hello, Christmas and giving season is still here.
 
-We have a new ***FREE*** game from [Humble Bundle](https://www.humblebundle.com/)!
+We have a new ***FREE*** game from [Humble Bundle](https://www.humblebundle.com/monthly?refc=gQ7hjJ)!
+
+>:point_up: *I receive a commission from Humble Bundle for purchases made through this link.*
+
+>*This comes with no additional cost and helps me get more games.*
+
+>*Thank you*
 
 Get LEGO Lord of the Rings free for a limited time at [https://www.humblebundle.com/store/lego-the-lord-of-the-rings](https://www.humblebundle.com/store/lego-the-lord-of-the-rings)
 

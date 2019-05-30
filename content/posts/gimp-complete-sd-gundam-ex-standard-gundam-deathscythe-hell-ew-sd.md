@@ -49,6 +49,10 @@ If you would also like to build this kit you can get it on Amazon with the link 
 
 >*This comes with no additional cost and helps me with ~~food~~ Gundam money*
 
+>*Thank you*
+
+---
+
 This is actually quite relaxing. Haven’t opened Steam in a while.
 
 Space background image in edited photo by [Alexander Andrews](https://unsplash.com/@alex_andrews?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)

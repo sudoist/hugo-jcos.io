@@ -22,8 +22,6 @@ gallery = [
 ]
 +++
 
-#### Model Kit: [SD Gundam Cross Silhouette Crossbone Gundam X1](/build-complete-sd-gundam-cross-silhouette-crossbone-gundam-x1/)
-
 Hello, here we are again with another GIMP Complete.
 
 I finished over during the holidays. Had some problems using my Mother’s laptop. It was just shutting down without warning.
@@ -62,3 +60,22 @@ Tried changing the gun to be a lightsaber but it doesn’t look so good.
 This was take from the Sinanju to have a dual wielding effect.
 
 Didn’t remove the background cleanly so I used the white background to make it look like it was very bright.
+
+---
+
+If you would also like to build this kit you can get it on Amazon with the link below.
+
+This kit only comes in SD frame, Cross Silhouette frame sold separately.
+
+I don't have one yet. :stuck_out_tongue:
+
+[{{<tinyImage src="affiliates/sdcrossbones_ir20cq.jpg">}}](https://amzn.to/2HIDf0K)
+
+#### [Model Kit: SD Gundam Cross Silhouette Crossbone Gundam X1](https://amzn.to/2HIDf0K)
+
+>:point_up: *I receive a commission from Amazon for purchases made through these links.*
+
+>*This comes with no additional cost and helps me with ~~food~~ Gundam money*
+
+>*Thank you*
+

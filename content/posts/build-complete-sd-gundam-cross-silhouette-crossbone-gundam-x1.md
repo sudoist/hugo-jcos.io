@@ -20,8 +20,6 @@ gallery = [
 ]
 +++
 
-### Model Kit: [SD Gundam Cross Silhouette Crossbone Gundam X1](#)
-
 Here we go again with one of the last SD kits I’m building.
 
 Would want to do some bigger and cooler kits but we’ll see.
@@ -55,3 +53,21 @@ I’ll be calling this Photoshop since that’s what it’s commonly called but 
 ### Now to pose and take some photos
 
 {{<folder-gallery>}}
+
+---
+
+If you would also like to build this kit you can get it on Amazon with the link below.
+
+This kit only comes in SD frame, Cross Silhouette frame sold separately.
+
+I don't have one yet. :stuck_out_tongue:
+
+[{{<tinyImage src="affiliates/sdcrossbones_ir20cq.jpg">}}](https://amzn.to/2HIDf0K)
+
+#### [Model Kit: SD Gundam Cross Silhouette Crossbone Gundam X1](https://amzn.to/2HIDf0K)
+
+>:point_up: *I receive a commission from Amazon for purchases made through these links.*
+
+>*This comes with no additional cost and helps me with ~~food~~ Gundam money*
+
+>*Thank you*

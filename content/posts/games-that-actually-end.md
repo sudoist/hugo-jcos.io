@@ -34,8 +34,15 @@ I’ll be busy playing the Borderlands series included in the bundle.
 
 Feels refreshing to play single player story games again.
 
-
 Now time to play. Starting with Borderlands.
+
+[Get your bundles and start expanding your game collection.](https://www.humblebundle.com/monthly?refc=gQ7hjJ)
+
+>:point_up: *I receive a commission from Humble Bundle for purchases made through these links.*
+
+>*This comes with no additional cost and helps me get more games.*
+
+>*Thank you*
 
 Until next game!
 

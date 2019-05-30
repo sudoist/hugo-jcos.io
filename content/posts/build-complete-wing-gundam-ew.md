@@ -20,8 +20,6 @@ gallery = [
 ]
 +++
 
-### Model Kit: [SD Gundam EX-Standard Wing Gundam Zero EW](#)
-
 Series: [Gundam Wing](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Wing)
 
 We have another SD from Gundam Wing.
@@ -33,3 +31,19 @@ I wanted to start painting but currently still looking and learning from tutoria
 I’m not sure if this Endless Waltz batch of SD have all of the EW Gundams but it would be great to collect all.
 
 {{< folder-gallery src="gallery" >}}
+
+---
+
+If you would also like to build this kit you can get it on Amazon with the link below.
+
+[{{<tinyImage src="affiliates/10389441_fltkom.jpg">}}](https://amzn.to/2QvDAXc)
+
+#### [Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW](https://amzn.to/2QvDAXc)
+
+>:point_up: *I receive a commission from Amazon for purchases made through these links.*
+
+>*This comes with no additional cost and helps me with ~~food~~ Gundam money*
+
+>*Thank you*
+
+---

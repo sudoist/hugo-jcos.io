@@ -9,18 +9,9 @@ title = "GIMP Complete: SD Gundam EX-Standard Sinanju"
 
 +++
 
-{{< smallImage src="sinanju_b2b9fm.jpg" >}}
-
 <div class="wp-block-media-text alignwide" style="grid-template-columns:25% auto">
 
   <div class="wp-block-media-text__content">
-    <h2>
-      <strong>Model Kit: </strong>
-    </h2>
-
-    <p>
-      <a href="https://jcos.io/build-complete-sd-gundam-ex-standard-sinanju-sd/"><strong>SD Gundam EX-Standard Sinanju</strong></a>
-    </p>
 
     <p>
       Trying something different with the layouts.
@@ -57,3 +48,18 @@ Unicorn Phenex up next!
 {{< image src="initial-kits_znobnw.jpg" >}}
 
 Saving the Magnum for last in this set.
+
+---
+
+If you would also like to build this kit you can get it on Amazon with the link below.
+
+[{{<tinyImage src="sinanju_b2b9fm.jpg">}}](https://amzn.to/2YVbc3J)
+
+#### [Model Kit: SD Gundam EX-Standard Sinanju](https://amzn.to/2YVbc3J)
+
+>:point_up: *I receive a commission from Amazon for purchases made through these links.*
+
+>*This comes with no additional cost and helps me with ~~food~~ Gundam money*
+
+>*Thank you*
+

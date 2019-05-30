@@ -53,12 +53,23 @@ Even the instructions on yourls homepage is clear enough.
 
 url.jcos.io/url/6 – http://yourls.org/#Install
 
+I’ve also read that getting your own domain for URL shortener is great for branding.
 
-I’ve also read that getting your own domain for URL shortener is great for branding. That’s cool if you’re into that thing. Branding, marketing and stuff.
-
-
+That’s cool if you’re into that thing. Branding, marketing and stuff.
 
 Let me know if you’d like some help with setting up your own yourls by leaving a comment below.
+
+I get my domains for less at [Namecheap](https://affiliate.namecheap.com/?affId=98310).
+
+They have some promos that you can get for $2 and below for first year.
+
+<!-- BEGIN LINK --><a class="post-image" rel="nofollow" href="https://affiliate.namecheap.com/?affId=98310"><img src="http://files.namecheap.com/graphics/linkus/468x60-1.gif" width="468" height="60" border="0" alt="Namecheap.com"></a><!-- END LINK -->
+
+>:point_up: *I receive a commission from Namecheap for purchases made through these links.*
+
+>*This comes with no additional cost and helps me with ~~food~~ Gundam money*
+
+>*Thank you*
 
 **Or** you can also reach me on twitter: url.jcos.io/twitter – https://twitter.com/sudoist or linkedin: url.jcos.io/linkedin – https://ph.linkedin.com/in/johncosio
 
