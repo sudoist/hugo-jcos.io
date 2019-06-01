@@ -8,7 +8,7 @@ sections:
   path: content/posts
   label: Posts
   create: documents
-  match: "**/*"
+  match: "*.md"
 - type: directory
   path: content
   label: Pages
