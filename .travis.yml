@@ -1,6 +1,6 @@
 language: go
 go:
-  - master
+  - go1.12.5
 addons:
   ssh_known_hosts: johncosio.com
 before_install:
