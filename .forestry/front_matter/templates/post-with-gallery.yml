@@ -1,0 +1,31 @@
+---
+label: Post with gallery
+hide_body: false
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: file
+  name: cover
+  label: cover
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: summary
+  label: summary
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: text
+  name: gallerySrc
+  label: gallerySrc
+- type: image_gallery
+  name: gallery
+  label: gallery
