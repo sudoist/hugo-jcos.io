@@ -8,7 +8,7 @@ sections:
   path: content/posts
   label: Posts
   create: documents
-  match: "*.md"
+  match: "*"
 - type: directory
   path: content
   label: Pages
@@ -18,7 +18,7 @@ sections:
   path: content/projects
   label: Projects
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - posts
 upload_dir: hugo/jcos.io
