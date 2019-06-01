@@ -4,9 +4,9 @@
   div.gallery {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
   div.gallery a {
-    flex-grow: 1;
     object-fit: cover;
     margin: 5px;
     display: flex;
@@ -14,7 +14,7 @@
 
   div.gallery a img {
     height: 250px;
-    object-fit: cover;
+    object-fit: contain;
     flex-grow: 1;
   }
 
@@ -30,14 +30,14 @@
   {{ $gallery := $.Page.Params.gallerySrc }}
   {{ range $.Page.Params.gallery }}
 
-  <a data-fancybox="gallery" href="#">
+  <a data-fancybox="gallery" href="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }}">
     <img
       srcset='
       {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }},
       {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMedium }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }},
       {{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryLarge }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }}
       '
-      src="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ . }}"
+      src="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryDefault }}/{{ $.Site.Params.cloudinaryMediaUrl }}{{ $gallery }}/{{ . }}"
     >
     <br>
 
