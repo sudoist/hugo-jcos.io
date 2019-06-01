@@ -21,6 +21,8 @@ sections:
   label: Projects
   create: all
   match: "**/*"
+  templates:
+  - posts
 upload_dir: hugo/jcos.io
 public_path: https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1558967386
 front_matter_path: ''
