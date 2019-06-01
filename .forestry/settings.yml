@@ -17,7 +17,7 @@ sections:
 - type: directory
   path: content/projects
   label: Projects
-  create: all
+  create: documents
   match: "*"
   templates:
   - posts
