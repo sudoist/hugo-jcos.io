@@ -12,13 +12,13 @@ sections:
 - type: directory
   path: content/posts
   label: Posts
-  create: all
-  match: "**/*"
+  create: documents
+  match: "*"
 - type: directory
   path: content/projects
   label: Projects
-  create: all
-  match: "**/*"
+  create: documents
+  match: "*"
 upload_dir: hugo/jcos.io
 public_path: https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1558967386
 front_matter_path: ''
