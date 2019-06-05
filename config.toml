@@ -7,7 +7,7 @@ PygmentsStyle = "monokai"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 
-# googleAnalytics = ""
+googleAnalytics = "UA-61196019-1"
 
 disableFastRender = true
 
