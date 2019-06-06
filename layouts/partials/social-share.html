@@ -32,7 +32,7 @@
          data-count=""
          data-pin-custom="true"
          data-pin-do="buttonPin"
-         data-pin-description="{{ .Summary }}&#10;&#10;{{- with .Params.tags }}{{- range . }} #{{.}}{{ end }}{{- end }}"
+         data-pin-description="{{ .Summary }}&#10;&#10;{{- with .Params.tags }}{{- range . }} #{{ . | urlize}}{{ end }}{{- end }}"
          data-pin-media="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }}"
          data-pin-url="{{$url}}"
          data-pin-no-hover="true"
