@@ -1,7 +1,7 @@
 +++
 date = "2019-04-14"
 title = "Build Complete: SD Gundam Cross Silhouette Crossbone Gundam X1"
-cover = "320190415_014341_yaslyu.jpg"
+cover = "build-sd-xbones/320190415_014341_yaslyu.jpg"
 summary = "Building SD Gundam Cross Silhouette Crossbone Gundam X1."
 categories = ["Gunpla"]
 tags = [
