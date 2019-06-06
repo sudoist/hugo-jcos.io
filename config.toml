@@ -42,7 +42,7 @@ enableEmoji = "true"
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   customCSS = ["/css/styles.css", "/css/responsive.css"]
-  customJS  = ["/js/pinterest.js"]
+  customJS  = []
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
@@ -73,8 +73,8 @@ enableEmoji = "true"
 
   # Social icons
   [[params.social]]
-    name = "backloggery"
-    url  = "https://backloggery.com/sudoist"
+    name = "pinterest"
+    url  = "https://www.pinterest.ph/sudoist/"
 
   [[params.social]]
     name = "linkedin"

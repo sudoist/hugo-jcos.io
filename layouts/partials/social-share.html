@@ -25,4 +25,26 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
       </a>
     </li>
+    <li>
+      <a href="https://www.pinterest.com/pin/create/button/"
+         rel="nofollow noreferrer noopener"
+         data-network="pinterest"
+         data-count=""
+         data-pin-custom="true"
+         data-pin-do="buttonPin"
+         data-pin-description="{{ .Summary }}"
+         data-pin-media="{{ $.Site.Params.cloudinaryBaseUrl }}{{ $.Site.Params.cloudinaryMediaUrl }}{{ .Params.cover }}"
+         data-pin-url="{{$url}}"
+         data-pin-no-hover="true"
+         data-url="{{$url}}"
+         style="cursor:pointer;"
+         target="_blank"
+         data-pin-log="button_pinit"
+         >
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-pinterest">
+          <path d="M10.67 15.097c-.506 2.726-1.122 5.34-2.95 6.705-.563-4.12.829-7.215 1.475-10.5-1.102-1.91.133-5.755 2.457-4.808 2.86 1.166-2.477 7.102 1.106 7.844 3.741.774 5.269-6.683 2.949-9.109-3.352-3.501-9.757-.079-8.969 4.934.192 1.226 1.421 1.598.491 3.29-2.145-.491-2.785-2.233-2.702-4.556.132-3.8 3.317-6.462 6.511-6.83 4.04-.466 7.831 1.527 8.354 5.44.59 4.416-1.823 9.2-6.142 8.855-1.171-.093-1.663-.69-2.58-1.265z"/>
+        </svg>
+      </a>
+      <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+    </li>
   </ul>
