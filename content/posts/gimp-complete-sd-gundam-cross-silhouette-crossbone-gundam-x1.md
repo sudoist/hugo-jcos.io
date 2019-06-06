@@ -41,7 +41,7 @@ Well gotta improvise until a proper base.
 
 ## Before
 
-{{< image src="gimp-sd-xbones/20190417_225518_y25izu.jpg" >}}
+{{< image src="gimp-sd-xbones/xbone1_xplaee.jpg" >}}
 
 ## After
 
