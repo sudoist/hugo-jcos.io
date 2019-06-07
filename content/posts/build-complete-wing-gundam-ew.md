@@ -45,5 +45,3 @@ If you would also like to build this kit you can get it on Amazon with the link 
 >*This comes with no additional cost and helps me with ~~food~~ Gundam money*
 
 >*Thank you*
-
----

@@ -34,4 +34,3 @@ If you would also like to build this kit you can get it on Amazon with the link 
 
 >*Thank you*
 
----
