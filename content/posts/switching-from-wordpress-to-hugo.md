@@ -1,7 +1,7 @@
 +++
 categories = ["Anything Goes","Blog","Project"]
 cover = "migrating_to_hugo_yxw5x1.png"
-date = "2019-06-12T07:08:09+10:11"
+date = "2019-06-11T07:08:09+10:11"
 layout = "post"
 summary = "I've been busy lately with migrating my site from WordPress to Hugo. Here are some points on why I made the switch."
 tags = [
@@ -115,13 +115,6 @@ Most can be authenticated with your Github account, with this my Github got a lo
 
 I will be writing more details on the tools and other stuff I used but that will be on another post.
 
-### TLDR
-
-Not able to make old theme and updated WordPress to work so instead of redoing site with new theme,
-moved over to hugo made a blog static.
-
-Learned a couple of new stuff along the way.
-
 ### Commercial time
 
 Thank you for reaching this part.
@@ -146,3 +139,16 @@ for purchases made through these links.*
 >*This comes with no additional cost and helps me with ~~food~~ Gundam money*
 
 >*Thank you*
+
+### TLDR
+
+Not able to make old theme and updated WordPress to work so instead of redoing site with new theme,
+moved over to hugo made a blog static.
+
+Learned a couple of new stuff along the way.
+
+What do you think?
+
+Are you considering moving to static site generators like VuePress, Jekyll and Hugo?
+
+Let's talk in the comments below.
