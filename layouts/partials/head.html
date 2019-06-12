@@ -11,6 +11,9 @@
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
+{{ with .Site.Social.twitter -}}
+    <meta name="twitter:creator" content="@{{ . }}"/>
+{{ end -}}
 
 {{ block "title" . }}
 <title>
