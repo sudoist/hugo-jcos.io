@@ -147,6 +147,12 @@ moved over to hugo made a blog static.
 
 Learned a couple of new stuff along the way.
 
+To check out the messed up WordPress install you can visit [https://wp.johncosio.com/](https://wp.johncosio.com/)
+
+I also backed up the whole working site as static thanks to [HTTrack](https://www.httrack.com/.
+
+It can be visited at [https://static.jcos.io/](https://static.jcos.io/)
+
 What do you think?
 
 Are you considering moving to static site generators like VuePress, Jekyll and Hugo?
