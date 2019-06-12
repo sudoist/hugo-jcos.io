@@ -9,6 +9,9 @@
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
 {{ block "title" . }}
 <title>
     {{- if .IsHome }}
