@@ -2,8 +2,8 @@
 categories = ["Project","Design"]
 cover = "logo512x512_ghwawd.png"
 images = [
-  "https://res.cloudinary.com/langitlupakintoncloud/image/upload/c_mfit,h_630,w_1200/hugo/jcos.io/logo512x512_ghwawd.png",
-  "https://res.cloudinary.com/langitlupakintoncloud/image/upload/c_mfit,h_630,w_1200/hugo/jcos.io/logo_inspiration_xfeokd.png"
+  "https://res.cloudinary.com/langitlupakintoncloud/image/upload/c_mfit,h_314,w_600/hugo/jcos.io/logo512x512_ghwawd.png",
+  "https://res.cloudinary.com/langitlupakintoncloud/image/upload/c_mfit,h_314,w_600/hugo/jcos.io/logo_inspiration_xfeokd.png"
 ]
 date = "2019-06-12T07:08:09+10:11"
 layout = "post"
