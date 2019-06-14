@@ -2,8 +2,8 @@
 categories = ["Project","Design"]
 cover = "logo512x512_ghwawd.png"
 images = [
-  "logo512x512_ghwawd.png",
-  "logo_inspiration_xfeokd.png"
+  "https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1560354970/hugo/jcos.io/logo512x512_ghwawd.png",
+  "https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1560355643/hugo/jcos.io/logo_inspiration_xfeokd.png"
 ]
 date = "2019-06-12T07:08:09+10:11"
 layout = "post"
@@ -14,7 +14,7 @@ tags = [
   "GIMP",
   "Inkscape"
 ]
-title = "Making my logo"
+title = "Designing my logo"
 +++
 
 ### Made my logo using GIMP then Inkscape. 
