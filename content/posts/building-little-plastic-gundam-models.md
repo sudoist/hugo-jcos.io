@@ -66,9 +66,9 @@ Working on other SDs to get the hang of it.
 
 If you would also like to build this kit you can get it on Amazon with the link below.
 
-[{{<smallImage src="gimp-sd-deathscythe-ew/20190406_134725_isgzrg.jpg">}}](https://amzn.to/2Wrz2qq)
+[{{<smallImage src="gimp-sd-deathscythe-ew/20190406_134725_isgzrg.jpg">}}](https://amzn.to/2P5csyL)
 
-#### [Model Kit: SD Gundam EX-Standard Gundam Deathscythe-Hell EW](https://amzn.to/2Wrz2qq)
+#### [Model Kit: SD Gundam EX-Standard Gundam Deathscythe-Hell EW](https://amzn.to/2P5csyL)
 
 >:point_up: *I receive a commission from Amazon for purchases made through these links.*
 
