@@ -53,9 +53,9 @@ Saving the Magnum for last in this set.
 
 If you would also like to build this kit you can get it on Amazon with the link below.
 
-[{{<tinyImage src="sinanju_b2b9fm.jpg">}}](https://amzn.to/2YVbc3J)
+[{{<tinyImage src="sinanju_b2b9fm.jpg">}}](https://amzn.to/37C5ms0)
 
-#### [Model Kit: SD Gundam EX-Standard Sinanju](https://amzn.to/2YVbc3J)
+#### [Model Kit: SD Gundam EX-Standard Sinanju](https://amzn.to/37C5ms0)
 
 >:point_up: *I receive a commission from Amazon for purchases made through these links.*
 
