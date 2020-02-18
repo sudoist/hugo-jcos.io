@@ -69,4 +69,4 @@ You can get the first volume from Amazon with the link below.
 
 >*Thank you*
 
-
+Clap Trap art by [GaryckArntzen](https://www.deviantart.com/garyckarntzen/art/Sir-Clap-Trap-Wallpaper-330268623)
