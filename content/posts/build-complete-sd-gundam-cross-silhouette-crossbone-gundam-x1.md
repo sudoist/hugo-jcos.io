@@ -62,9 +62,9 @@ This kit only comes in SD frame, Cross Silhouette frame sold separately.
 
 I don't have one yet. :stuck_out_tongue:
 
-[{{<tinyImage src="affiliates/sdcrossbones_ir20cq.jpg">}}](https://amzn.to/2HIDf0K)
+[{{<tinyImage src="affiliates/sdcrossbones_ir20cq.jpg">}}](https://amzn.to/2T0zqIO)
 
-#### [Model Kit: SD Gundam Cross Silhouette Crossbone Gundam X1](https://amzn.to/2HIDf0K)
+#### [Model Kit: SD Gundam Cross Silhouette Crossbone Gundam X1](https://amzn.to/2T0zqIO)
 
 >:point_up: *I receive a commission from Amazon for purchases made through these links.*
 
