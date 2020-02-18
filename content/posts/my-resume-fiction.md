@@ -66,7 +66,7 @@ title = "My Résumé (Fictional | Not real)"
 > Helped work with VR experience by making AR Goggles see items only visible to avatars.
 
 ---
-> ### Telestrian Industries - a chemical weapon capable of killing the insect spirits
+> ### Telestrian Industries
 > #### - Spray for insect spirits
 > Research of a chemical spray capable of killing the insect spirits
 
