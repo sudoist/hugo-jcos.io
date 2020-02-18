@@ -98,3 +98,5 @@ title = "My Résumé (Fictional | Not real)"
 > #### - CL4P-TP
 > Worked on claptrap's personality AI. I really enjoyed these robots I made them a banner in my [backlog](https://backloggery.com/sudoist).
 > I was inspired by the Hyperion's [president](https://en.wikipedia.org/wiki/Handsome_Jack) which started out as a low-ranking programmer(like me!)...
+
+Shinra Electric Power Co. Logo by [Draconovich](https://www.deviantart.com/draconovich/art/Shinra-Electric-Power-Co-Logo-9200447)
