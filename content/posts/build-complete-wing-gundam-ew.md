@@ -36,9 +36,9 @@ I’m not sure if this Endless Waltz batch of SD have all of the EW Gundams but 
 
 If you would also like to build this kit you can get it on Amazon with the link below.
 
-[{{<tinyImage src="affiliates/10389441_fltkom.jpg">}}](https://amzn.to/2QvDAXc)
+[{{<tinyImage src="affiliates/10389441_fltkom.jpg">}}](https://amzn.to/2HLLR65)
 
-#### [Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW](https://amzn.to/2QvDAXc)
+#### [Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW](https://amzn.to/2HLLR65)
 
 >:point_up: *I receive a commission from Amazon for purchases made through these links.*
 
