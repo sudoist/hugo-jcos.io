@@ -24,6 +24,7 @@ During the announcement of a Community Quarantine or "Lockdown".
 Because that is what it is, even officials being interviewed is saying that it is not a "Lockdown" but similar to a "Lockdown".
 
 You know what comes to mind when I hear the term Lockdown?
+
 > Terran Ghosts, Siege Tanks, Carriers and Battlecruisers
 
 Okay I'm getting side tracked back to the topic, so I had to go back to our house with my parents and leave the place I'm renting.
@@ -35,6 +36,7 @@ Fast forward to present, A month and a half quarantined.
 It's back to my Asus again. My old trusty partner for almost 6 years.
 
 When I bought the new box last christmas I gave this to my parents, nice thing is that my good friend handed me down his old laptop.
+
 > What I am using in typing this right now. Still works great with MX Linux.
 
 There is this SSD in a portable enclosure I bring everywhere as my work OS, so no problem whichever computer I am using.
@@ -114,6 +116,7 @@ Customized it a little made it look really good.
 Moved the menu to top then changed the wallpaper and you're set.
 
 I'm surprised at the wallpaper I used that it looks good here.
+
 > To get the same wallpaper, see Unsplash credits at the end. :stuck_out_tongue_winking_eye:
 
 ## Conclusion
