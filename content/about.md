@@ -10,7 +10,7 @@ title = "A little about me"
 type = "pages"
 
 +++
-{{<tinyImage src = "gravatar-150x150_vp0cd0">}}
+{{<tinyImage src = "editedsailormoonbw_emde96.png">}}
 
 #### Hello, my name is John Cosio.
 
