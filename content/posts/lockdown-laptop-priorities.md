@@ -1,14 +1,17 @@
 +++
 date = "2020-04-28T07:08:09+10:11"
 title = "Lockdown Laptop Priorities"
-cover = "modulo_qimfjl.jpg"
+cover = "laptop-priorities/mxlinux_bbm9dk.png"
 summary = "Realization about my laptop and how to improve it during this lockdown."
 categories = ["Development","Anything Goes","Blog"]
 tags = [
   "Blogging",
   "Programming",
   "Linux",
-  "MX Linux"
+  "MX Linux",
+  "Unsplash",
+  "Photography",
+  "Travel"
 ]
 layout = "post"
 +++
@@ -20,9 +23,12 @@ During the announcement of a Community Quarantine or "Lockdown".
 
 Because that is what it is, even officials being interviewed is saying that it is not a "Lockdown" but similar to a "Lockdown".
 
+You know what comes to mind when I hear the term Lockdown?
+> Terran Ghosts, Siege Tanks, Carriers and Battlecruisers
+
 Okay I'm getting side tracked back to the topic, so I had to go back to our house with my parents and leave the place I'm renting.
 
-I don't have food and I thought it would suck to be stuck in there alone so when the rumors that there's going to be a community quarantine I packed my laptop and left.
+I don't have much food and supplies. I thought it would suck to be stuck in there alone so when the rumors that there's going to be a community quarantine I packed my laptop and left.
 
 Fast forward to present, A month and a half quarantined.
 
@@ -31,7 +37,7 @@ It's back to my Asus again. My old trusty partner for almost 6 years.
 When I bought the new box last christmas I gave this to my parents, nice thing is that my good friend handed me down his old laptop.
 > What I am using in typing this right now. Still works great with MX Linux.
 
-There is this SSD in a portable enclosure I bring everywhere as my work Os so no problem whichever computer I am using.
+There is this SSD in a portable enclosure I bring everywhere as my work OS, so no problem whichever computer I am using.
 
 This is loaded with Pop OS; An Ubuntu based distro which I really like.
 
@@ -41,9 +47,11 @@ It's all good but when it's running on older machines like my Asus, the limited 
 
 Lack of RAM keeps slowing down the system and the Gnome also uses a lot of memory.
 
-When used with IDEs like Android Studio and PHP Storm a significance slowness is noticeable.
+When used with IDEs like Android Studio and PHP Storm a significant slowness is noticeable.
 
-Oh and on top of that the fan broke. (Pics to upload later.)
+Oh and on top of that, the fan broke. (Pics to upload later.)
+
+You can hear the noisy grinding fan causing vibrations on the laptop.
 
 So I realized that to remedy this lack of performance and the risk that this quarantine can be extended again...
 
@@ -60,6 +68,8 @@ Maybe I can get a nice budget laptop.
 
 I kept searching and disappointed on how expensive laptops are right now.
 
+A decent specced unit is more expensive than my gaming desktop.
+
 For me, I'm not really a fan of laptops but I think I should invest in one since it is useful for my work.
 
 Found one from Dell I think but when I thought about it long and hard... Why not just upgrade my Asus.
@@ -72,10 +82,10 @@ Wow that introduction was longer than expected, sorry I kept rambling.
 
 ### There were checklist on what I thought of to improve the performance.
 
-- Replaced Pop OS with MX Linux. DONE
+- Replaced Pop OS with MX Linux. :white_check_mark:
 - Max out the RAM to 12GB.
-- Slap in the SSD as main drive. DONE
-- Replaced Jetbrains' IDEs for lighter Visual Studio Code. DONE
+- Slap in the SSD as main drive. :white_check_mark:
+- Replaced Jetbrains' IDEs for lighter Visual Studio Code. :white_check_mark:
 
 #### Additional quality of life improvements that are nice to have
 
@@ -128,6 +138,6 @@ Still here? Thanks for reaching the end.
 
 Appreciate your time!
 
-TODO: Edit cover photo and upload other laptop pics or on another post, internet is acting up causing my cover upload to fail.
+TODO: Upload other laptop pics or on another post. Changing thermal paste, disassembling and lubing fan etc..
 
 Photo by&nbsp;[John Cosio](https://unsplash.com/photos/cMz_4oalZnY)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/@jcosio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 😉
