@@ -64,7 +64,7 @@ I get my domains for less at [Namecheap](https://affiliate.namecheap.com/?affId=
 They have some promos that you can get for $2 and below for first year.
 
 <div class="ads-container" style="text-align: center;">
-  <!-- BEGIN LINK --><a class="post-image" rel="nofollow" href="https://affiliate.namecheap.com/?affId=98310"><img src="http://files.namecheap.com/graphics/linkus/468x60-1.gif" width="468" height="60" border="0" alt="Namecheap.com"></a><!-- END LINK -->
+  <!-- BEGIN LINK --><a class="post-image" rel="nofollow" href="https://affiliate.namecheap.com/?affId=98310"><img src="https://files.namecheap.com/graphics/linkus/468x60-1.gif" width="468" height="60" border="0" alt="Namecheap.com"></a><!-- END LINK -->
 </div>
 
 >:point_up: *I receive a commission from Namecheap for purchases made through these links.*
