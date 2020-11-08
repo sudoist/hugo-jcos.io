@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/sudoist/hugo-jcos.io.svg?branch=master)](https://travis-ci.org/sudoist/hugo-jcos.io)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3256c3b1-0c81-4cb6-801f-bdea0a662a69/deploy-status)](https://app.netlify.com/sites/goofy-brahmagupta-ef496e/deploys)
+
 # jcos.io on Hello Friend NG
 My personal site.
 
