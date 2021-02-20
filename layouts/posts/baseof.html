@@ -5,6 +5,10 @@
     </head>
 
     <body class="{{ if .IsHome }}home custom {{ end }}{{ if ne $.Site.Params.defaultTheme "light" -}} dark-theme {{- end -}}">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSQL9L7"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <div class="container">
             {{ partial "header.html" . }}
 
