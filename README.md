@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3256c3b1-0c81-4cb6-801f-bdea0a662a69/deploy-status)](https://app.netlify.com/sites/goofy-brahmagupta-ef496e/deploys)
+
 # jcos.io on Hello Friend NG
 My personal site.
 
@@ -18,8 +20,8 @@ This theme was built on top of [Hello Friend NG](https://github.com/rhazdon/hugo
 > 2/21/21
 > - Removing subscriptions
 > - Removing social share buttons
+> - Removing Travis CI
 > - Added google tags
-> - Moving to App platform
 > - Able to fix again, will continue with Hugo and too lazy to migrate to Gatsby
 
 > 5/25/19
