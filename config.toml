@@ -129,7 +129,7 @@ enableEmoji = "true"
   [[menu.main]]
     identifier = "project"
     name       = "Projects"
-    url        = "/projects"
+    url        = "https://projects.jcos.io/"
 
 # Home CTA links
 [home]
