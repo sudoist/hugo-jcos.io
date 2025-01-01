@@ -130,6 +130,10 @@ enableEmoji = "true"
     identifier = "project"
     name       = "Projects"
     url        = "https://projects.jcos.io/"
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "https://resume.jcos.io/"
 
 # Home CTA links
 [home]
