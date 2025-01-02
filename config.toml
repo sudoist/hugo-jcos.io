@@ -86,10 +86,6 @@ enableEmoji = "true"
     url  = "https://twitter.com/sudoist"
 
   [[params.social]]
-    name = "pinterest"
-    url  = "https://www.pinterest.ph/sudoist/"
-
-  [[params.social]]
     name = "linkedin"
     url  = "https://ph.linkedin.com/in/johncosio"
 
