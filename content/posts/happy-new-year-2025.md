@@ -1,7 +1,7 @@
 +++
 date = "2025-01-01T03:21:55+00:00"
 title = "Happy New Year 2025!"
-cover = "build-mg-gn-x/20190723_013910_y7yald.jpg"
+cover = "jwnmhzjc7kdpdtwaoz8b.jpg"
 summary = "Happy New Year!"
 categories = ["Blog"]
 tags = []
