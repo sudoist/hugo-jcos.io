@@ -121,7 +121,7 @@ enableEmoji = "true"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "https://blog.jcos.io/"
   [[menu.main]]
     identifier = "project"
     name       = "Projects"
