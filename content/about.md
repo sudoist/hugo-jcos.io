@@ -62,7 +62,7 @@ Some of my photos are available on Unsplash, and yes... "See my little robots" i
 
 #### Interested to work with me? Here's my card..
 
-{{<tinyImage src="business_card_jcos-new.png">}}
+{{<tinyImage src="uaagg714jxdak5duugtt.png">}}
 
 Feel free to browse my [projects](https://projects.jcos.io/), connect with me on LinkedIn, or simply send me an email.
 
