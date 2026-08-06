@@ -3,4 +3,43 @@
   publish = "public"
 
 [build.environment]
+  # Frozen Hugo version for the legacy jcos.io site.
   HUGO_VERSION = "0.85.0"
+
+# Blog migrated to Jigsaw
+[[redirects]]
+  from = "/posts"
+  to = "https://blog.jcos.io/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/*"
+  to = "https://blog.jcos.io/:splat"
+  status = 301
+  force = true
+
+# Standalone sites
+[[redirects]]
+  from = "/projects"
+  to = "https://projects.jcos.io/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects/*"
+  to = "https://projects.jcos.io/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/resume"
+  to = "https://resume.jcos.io/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/resume/*"
+  to = "https://resume.jcos.io/:splat"
+  status = 301
+  force = true
