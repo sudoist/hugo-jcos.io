@@ -36,14 +36,14 @@ enableEmoji = "true"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Gaming and stuff on John Cosio…"
-  keywords = "Homepage, Blog, Programming, Photoshop, Gaming, Gunpla"
+  description = "description = "Personal website of John Cosio, Independent Software Consultant helping businesses build custom software, AI applications, and SaaS products."
+  keywords = "John Cosio, Independent Software Consultant, AI, SaaS, Web Development, Technology, Gaming, Photography, Music, Sports, Philippines"
   images = [""]
 
   # Homepage
   homeHeader = "Greetings traveller!"
-  homeMessage1 = "Sit back, relax and play some games."
-  homeMessage2 = "We can talk about work too."
+  homeMessage1 = "Sit back, relax."
+  homeMessage2 = "We can talk about software."
   homeMessage3 = "How can I help you?"
   homeCTA1 = "Hang around"
   homeCTA2 = "Discuss work stuff"
@@ -82,12 +82,8 @@ enableEmoji = "true"
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/sudoist"
-
-  [[params.social]]
     name = "linkedin"
-    url  = "https://ph.linkedin.com/in/johncosio"
+    url  = "https://www.linkedin.com/in/johncosio/"
 
   [[params.social]]
     name = "github"
@@ -108,7 +104,7 @@ enableEmoji = "true"
 [languages]
   [languages.en]
     title  = "John Cosio"
-    subtitle  = "Gaming and stuff"
+    subtitle  = "Personal website"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -134,14 +130,14 @@ enableEmoji = "true"
 # Home CTA links
 [home]
   [[menu.cta]]
-    identifier = "project"
-    name       = "-> Portfolio and work stuff"
-    url        = "projects/"
-  [[menu.cta]]
     identifier = "about"
-    name       = "-> Learn more about what I do here"
+    name       = "-> Learn more about me"
     url        = "about/"
+  [[menu.cta]]
+    identifier = "project"
+    name       = "-> Browse my projects"
+    url        = "https://projects.jcos.io/"
   [[menu.cta]]
     identifier = "gunpla/"
     name       = "-> See my little robots"
-    url        = "categories/gunpla/"
+    url        = "https://blog.jcos.io/posts/categories/gunpla/"
