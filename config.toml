@@ -36,7 +36,7 @@ enableEmoji = "true"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "description = "Personal website of John Cosio, Independent Software Consultant helping businesses build custom software, AI applications, and SaaS products."
+  description = "Personal website of John Cosio, Independent Software Consultant helping businesses build custom software, AI applications, and SaaS products."
   keywords = "John Cosio, Independent Software Consultant, AI, SaaS, Web Development, Technology, Gaming, Photography, Music, Sports, Philippines"
   images = [""]
 
