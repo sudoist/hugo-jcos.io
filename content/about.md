@@ -2,64 +2,70 @@
 categories = []
 cover = "business_card_jcos-300x158_jqgoux.png"
 date = "2019-05-23T16:00:00+00:00"
-description = "Hello, my name is John Cosio.\nI’m a programmer, webmaster and all-around computer guy."
+description = "Hello, my name is John Cosio. I'm an Independent Software Consultant and founder of Tigasoft I.T. Solutions."
 layout = "about"
 slug = "about"
 tags = ["About"]
 title = "A little about me"
 type = "pages"
-
 +++
-{{<tinyImage src = "editedsailormoonbw_emde96.png">}}
+
+{{<tinyImage src="editedsailormoonbw_emde96.png">}}
 
 #### Hello, my name is John Cosio.
 
-I’m a programmer, webmaster and all-around computer guy.
+I'm an **Independent Software Consultant** based in the Philippines and the founder of **Tigasoft I.T. Solutions**.
 
-I build websites from simple blog pages to complicated E-commerce sites.
+I've been building software professionally since 2010, helping businesses turn ideas into custom web applications, internal systems, SaaS products, and more recently, AI-powered solutions.
 
 ***
 
-Java is not my cup of…. water. Not much of a coffee or tea drinker.
+Java was never my cup of... water.
 
-Too complicated for me and back in college I used to skip classes. hahahaha
+Back in college I used to skip Java classes.
 
-Not funny? Okay, let’s forget that happened. :smile:
+Somehow I still ended up building software for a living.
+
+Life has a funny way of surprising us.
 
 ***
 
 #### More about me and what I do
 
+##### Building software
+
+My favorite part of software development is turning an idea into something people can actually use.
+
+Whether it's a custom business system, an AI assistant, or a SaaS product, I enjoy helping people go from a rough concept to a working MVP.
+
+You can check out some of my work on the [Projects](https://projects.jcos.io/) page or browse my code on [GitHub](https://github.com/sudoist).
+
 ##### Writing
 
-I write things about everything that gets my interest and rants. Maybe some rants…..
+I occasionally write about software, projects, things I've learned, and whatever happens to spark my curiosity.
+
+Sometimes it's technical.
+
+Sometimes it's about travel, games, or random ideas.
 
 ##### Gaming
 
-My addiction and enthusiasm with computer games started when I was very little.
+I've been playing games for as long as I can remember.
 
-I’ve started a [YouTube channel](https://www.youtube.com/channel/UCRHhhzP8dUEp_PS9eNUU2-A) to upload gameplay and other game related contents.
+You'll occasionally find gameplay, experiments, and random uploads on my [YouTube channel](https://www.youtube.com/channel/UCRHhhzP8dUEp_PS9eNUU2-A).
 
-##### Development
+##### Outside work
 
-Check out my snippets and projects I’m building on [Github](https://github.com/sudoist).
+When I'm away from the keyboard, you'll probably find me traveling, taking photos, building the occasional Gundam model, or playing a game of pickleball.
 
-I’m planning to contribute in the development of Open Source software I regularly use.
-
-##### Artsy stuff
-
-My take take on things around me and adding a little twist to common words and sentences.
-
-I draw puns inspired by [Chris Butler collection](http://www.chrisbutlercollection.com/just-for-pun) and funny comics from the [The Oatmeal](http://theoatmeal.com/).
-
-Edit photos of [Gundams](categories/gunpla/ "Gunpla") to make it look cool then probably hand paint them later.
-
-Shoot picturesque [scenery](posts/islas-de-gigantes/islas-de-gigantes/ "Photography") with my handy phone. (Pretty much hit and miss)
+Some of my photos are available on Unsplash, and yes... "See my little robots" is exactly what it sounds like.
 
 #### Interested to work with me? Here's my card..
 
-{{<tinyImage src = "business_card_jcos-300x158_jqgoux.png">}}
+{{<tinyImage src="business_card_jcos-new.png">}}
 
-Check out the [projects](/projects) page to see some of my work..
+Feel free to browse my [projects](https://projects.jcos.io/), connect with me on LinkedIn, or simply send me an email.
 
-#### No need for fancy buzzwords, feel free to contact me if I could be of any help.
+#### No need for fancy buzzwords.
+
+If you think I can help with your next project, I'd be happy to chat.
